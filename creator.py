@@ -1,7 +1,7 @@
 """ This module will be used for creating image """
 from PIL import Image
 
-from colors import randomColor
+from randcolor import randomColor
 
 
 def imageCreator():
